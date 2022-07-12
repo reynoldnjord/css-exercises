@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#sec {
+    color: blue;
+    font-size: 32px;
+}
+
+#fo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd.th {
+    font-size: 24px;
+}
